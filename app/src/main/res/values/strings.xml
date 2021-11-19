@@ -1,0 +1,6 @@
+<resources>//login
+    <string name="app_name">Hnos. Auñon</string>
+    <string name="hint_pass">contraseña</string>
+    <string name="hint_mail">correo</string>
+    <string name="button">Empezar</string>
+</resources>
